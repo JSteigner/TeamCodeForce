@@ -1,0 +1,30 @@
+{
+  "name": "TeamCodeForce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TeamCodeForce/TeamCodeForce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TeamCodeForce/TeamCodeForce/issues"
+  },
+  "homepage": "https://github.com/TeamCodeForce/TeamCodeForce#readme",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "passport": "^0.4.1",
+    "passport-google-oauth": "^2.0.0",
+    "react": "^16.13.1",
+    "react-router-dom": "^5.2.0",
+    "sequelize": "^6.3.4"
+  }
+}
